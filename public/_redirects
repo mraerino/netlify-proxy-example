@@ -1,2 +1,2 @@
-/ssr /.netlify/functions/debug-func
+/ssr/:id /.netlify/functions/debug-func?id=:id 200!
 /* id=:id https://enr56mv3npln.x.pipedream.net/:splat?id=:id 200!
